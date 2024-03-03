@@ -85,3 +85,4 @@ myAccount.deposit(1000.0);// Show message "You cannot deposit on closed         
 }
 
 Here is the link to my UML Diagram:
+https://lucid.app/lucidchart/8c313a8d-999f-4464-89fb-a3d98d14f6e6/edit?beaconFlowId=1D4E4ECA2B540A51&invitationId=inv_e913f163-c778-414c-af05-8232b07d5cb6&page=0_0#
